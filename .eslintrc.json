@@ -19,7 +19,6 @@
         "plugin:@angular-eslint/recommended",
         "plugin:@angular-eslint/template/process-inline-templates",
         "prettier",
-        "prettier/@typescript-eslint",
         "plugin:prettier/recommended"
       ],
       "rules": {
