@@ -1,0 +1,15 @@
+{
+	"recommendations": [
+		"esbenp.prettier-vscode",
+		"eamodio.gitlens",
+		"editorconfig.editorconfig",
+		"zignd.html-css-class-completion",
+		"dbaeumer.vscode-eslint",
+		"streetsidesoftware.code-spell-checker",
+		"coenraads.bracket-pair-colorizer",
+		"angular.ng-template",
+		"johnpapa.angular2",
+		"formulahendry.auto-close-tag",
+		"ecmel.vscode-html-css"
+	]
+}
